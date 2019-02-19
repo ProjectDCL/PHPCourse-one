@@ -2,4 +2,4 @@ Daniel/*
 .idea/*
 .hta*
 .DS_*
-*.cpp
+main.cpp
