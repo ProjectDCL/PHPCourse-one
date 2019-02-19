@@ -15,5 +15,6 @@ for ($i = 1; $i <= 10; $i++) {
     echo "<td>" . $i*10 . "</td>";
 
     echo "</tr>";
+
 }
 echo '</table>';
